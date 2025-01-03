@@ -2,6 +2,12 @@
 
 ---
 
+# Isaac Lab Fork
+```bash
+git fetch upstream # Fetch updates from upstream
+git merge upstream/main # Merge upstream changes into your local branch
+```
+
 # Isaac Lab
 
 [![IsaacSim](https://img.shields.io/badge/IsaacSim-4.2.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
